@@ -1,7 +1,7 @@
 # 🐦 Twitter Sentiment Analysis  
  
 ## 📌 Introduction 
-
+ 
 **Natural Language Processing (NLP)** is one of the most exciting fields in data science today. Among its many applications, **sentiment analysis** plays a key role in understanding public opinion, customer feedback, and brand perception.
 
 In this project, we perform **sentiment analysis on tweets** to classify them as **positive, negative, or neutral**. Whether it's for opinion polling, brand monitoring, or developing marketing strategies — sentiment analysis is a powerful tool every data scientist should master.
