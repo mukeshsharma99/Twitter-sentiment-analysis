@@ -7,7 +7,7 @@
 In this project, we perform **sentiment analysis on tweets** to classify them as **positive, negative, or neutral**. Whether it's for opinion polling, brand monitoring, or developing marketing strategies — sentiment analysis is a powerful tool every data scientist should master.
    
 ---
-
+     
 ## 🎯 Objective
 
 To analyze tweets using NLP techniques and machine learning models to:
