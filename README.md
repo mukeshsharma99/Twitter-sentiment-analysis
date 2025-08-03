@@ -12,7 +12,7 @@ In this project, we perform **sentiment analysis on tweets** to classify them as
 
 To analyze tweets using NLP techniques and machine learning models to:
 - Understand the **underlying sentiment** of text data
-- **Classify tweets** based on polarity (Positive, Negative, Neutral)
+- **Classify tweets** based on polarity (Positive, Negative, Neutral)  
 - Visualize and interpret results using various plots and metrics
 
 ---
