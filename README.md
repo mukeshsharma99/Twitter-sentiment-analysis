@@ -8,7 +8,7 @@ In this project, we perform **sentiment analysis on tweets** to classify them as
    
 ---   
      
-## 🎯 Objective
+## 🎯 Objective 
 
 To analyze tweets using NLP techniques and machine learning models to:
 - Understand the **underlying sentiment** of text data
